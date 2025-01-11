@@ -17,4 +17,9 @@ public class Calculator {
         return num1/num2;
     }
 
+    //Conflict scenario both will add modulo method
+    public static int moduloTwoIntegerNumbers(int num1, int num2){
+        return num1%num2;
+    }
+
 }
