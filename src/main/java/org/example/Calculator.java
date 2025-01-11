@@ -8,4 +8,13 @@ public class Calculator {
     public static int subtractTwoNumbers(int num1, int num2){
         return num1-num2;
     }
+
+    public static int multiplyTwoNumbers(int num1, int num2){
+        return num1*num2;
+    }
+
+    public static int divideTwoNumbers(int num1, int num2){
+        return num1/num2;
+    }
+
 }
